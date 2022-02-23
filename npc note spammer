@@ -1,0 +1,2 @@
+_G.Spam = true;
+loadstring(game:HttpGet("https://gist.githubusercontent.com/AVeryBrokenNPC/84a2a6aceadadb133a824f083e04828e/raw/78d2ffae0315d57a4a41008e4ae1c5ab9d808c05/npc%2520note%2520spammer"))()
